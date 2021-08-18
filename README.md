@@ -1,4 +1,19 @@
-### Hi there 👋
+## 👋 Welcome to dailyNJ's Github 👋
+
+### 🎡 My Experiences
+|Type|Activity period|Contents|Organization|
+|:--:|---------------|--------|:----------:|
+|🖥 SW Education|2021.07~2021.08|6th boostcamp challenge|[NAVER CONNECT](https://www.connect.or.kr/)|
+|🖥 SW Education|2020.11~|42seoul|[Innovation Academy](https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=Cj0KCQjwvO2IBhCzARIsALw3ASp80wUAlxFIl9RwSJyaV5Sdf157R21XD_puyYgo3IWi3ZtsEvAgoM8aAuFpEALw_wcB)|
+|🏢Company|2019.06~2019.08|System Development Intern|[ODOC](https://thefillit.com/)|
+|🏫Education|2017.03~2022.03|Department of Software & Mathematics|[Ajou University](https://www.ajou.ac.kr/kr/index.do)|
+
+### 😊 About me ...   <a href="https://dailylifeofdeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-4285F4?style=flat-square&logo=&logoColor=white"/></a> <a href="mailto:najeong.lee12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+- 🌱 I’m currently learning **Algorithm** and **iOS**.
+- 😄 I enjoy talk and code with people.
+- 📝 I enjoy learning new development skills.
+
 
 <!--
 **dailynj/dailynj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
