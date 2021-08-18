@@ -8,7 +8,7 @@
 |🏢Company|2019.06~2019.08|System Development Intern|[ODOC](https://thefillit.com/)|
 |🏫Education|2017.03~2022.03|Department of Software & Mathematics|[Ajou University](https://www.ajou.ac.kr/kr/index.do)|
 
-### 😊 About me ...   <a href="https://dailylifeofdeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-4285F4?style=flat-square&logo=&logoColor=white"/></a> <a href="mailto:najeong.lee12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+### 😊 About me ...   <a href="https://dailylifeofdeveloper.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-4285F4?style=flat-square&logo=&logoColor=white"/></a> <a href="mailto:najeong.lee12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
 
 - 🌱 I’m currently learning **Algorithm** and **iOS**.
 - 😄 I enjoy talk and code with people.
