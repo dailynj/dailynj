@@ -7,7 +7,7 @@
 |🏢. Internship|2019.06 ~ 2019.08|System Development Intern|[ODOC](https://thefillit.com/)|
 |🖥  SW Education|2020.11 ~ now|42seoul|[Innovation Academy](https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=Cj0KCQjwvO2IBhCzARIsALw3ASp80wUAlxFIl9RwSJyaV5Sdf157R21XD_puyYgo3IWi3ZtsEvAgoM8aAuFpEALw_wcB)|
 |🖥  SW Education|2021.07 ~ 2021.08|6th boostcamp challenge|[NAVER CONNECT](https://www.connect.or.kr/)|
-|🖥  SW Education|2021.08 ~ now|6th boostcamp membership|[NAVER CONNECT](https://www.connect.or.kr/)|
+|🖥  SW Education|2021.08 ~ 2021.12|6th boostcamp membership|[NAVER CONNECT](https://www.connect.or.kr/)|
 
 
 ### 😊 About me ...    
