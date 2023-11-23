@@ -5,10 +5,10 @@
 |:--:|---------------|--------|:----------:|
 |🏫  Education|2017.03 ~ 2022.03|Department of Software & Mathematics|[Ajou University](https://www.ajou.ac.kr/kr/index.do)|
 |🏢. Internship|2019.06 ~ 2019.08|System Development Intern|[ODOC](https://thefillit.com/)|
-|🖥  SW Education|2020.11 ~ now|42seoul|[Innovation Academy](https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=Cj0KCQjwvO2IBhCzARIsALw3ASp80wUAlxFIl9RwSJyaV5Sdf157R21XD_puyYgo3IWi3ZtsEvAgoM8aAuFpEALw_wcB)|
+|🖥  SW Education|2020.11 ~ 2022.01|42seoul|[Innovation Academy](https://42seoul.kr/seoul42/contents/view?contentsNo=13&level=2&menuNo=28&gclid=Cj0KCQjwvO2IBhCzARIsALw3ASp80wUAlxFIl9RwSJyaV5Sdf157R21XD_puyYgo3IWi3ZtsEvAgoM8aAuFpEALw_wcB)|
 |🖥  SW Education|2021.07 ~ 2021.08|6th boostcamp challenge|[NAVER CONNECT](https://www.connect.or.kr/)|
 |🖥  SW Education|2021.08 ~ 2021.12|6th boostcamp membership|[NAVER CONNECT](https://www.connect.or.kr/)|
-|🏢 Company|2022.02 ~ |iOS Developer|[LINE Plus](https://linepluscorp.com/)|
+|🏢 Company|2022.02 ~ now|LINE Bank iOS Developer|[LINE Plus](https://linepluscorp.com/)|
 
 <!--
 ### 😊 About me ...    
