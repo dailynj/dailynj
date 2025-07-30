@@ -1,5 +1,5 @@
 ## 👋 Welcome to dailyNJ's Github 👋
-
+<!--
 ### 🎡 My Experiences
 |Type|Activity period|Contents|Organization|
 |:--:|---------------|--------|:----------:|
@@ -10,6 +10,7 @@
 |🖥  SW Education|2021.08 ~ 2021.12|6th boostcamp membership|[NAVER CONNECT](https://www.connect.or.kr/)|
 |🏢 Company|2022.02 ~ 2023.05|LINE Bank(JP) iOS Developer|[LINE Biz Plus](https://linepluscorp.com/)|
 |🏢 Company|2023.06 ~ now|LINE iOS Developer|[LINE Plus](https://linepluscorp.com/)|
+-->
 
 <!--
 ### 😊 About me ...    
